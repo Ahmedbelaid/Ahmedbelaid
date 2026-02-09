@@ -1,5 +1,5 @@
-# 🚀 Ahmed Belaid  
-### AI Engineer • Full Stack Architect • Builder of Useful Intelligence
+# Ahmed Belaid  
+### AI Engineer • Full Stack Engineer • Builder of Useful Intelligence
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ahmedbelaid&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -15,17 +15,13 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 I build **AI systems that leave the demo phase**.
 
-My work sits where  
-AI intelligence  
-meets  
-real infrastructure  
-and real humans.
+My work sits where AI intelligence meets real infrastructure and real humans.
 
-I focus on **AI driven platforms**, **marketplace infrastructure**, and **edge intelligence**, designing systems meant to scale, survive, and generate value.
+I focus on designing systems meant to scale, survive, and generate value.
 
 ---
 
@@ -36,12 +32,6 @@ I focus on **AI driven platforms**, **marketplace infrastructure**, and **edge i
 
 A next generation AI native marketplace where matching is based on **intent and capability**, not keywords.
 
-Key ideas  
-• Semantic AI matching instead of filters  
-• Human vetted professionals only  
-• Trust first marketplace design  
-• Built for high value work, not spam  
-
 Tech  
 • Supabase  
 • React  
@@ -49,9 +39,11 @@ Tech
 • OpenAI  
 • Stripe Connect  
 
+https://proarts.studio  
+
 ---
 
-### 🪞 Smart Mirror AI  
+### Smart Mirror AI  
 **Computer vision meets physical reality**
 
 An edge AI system that performs **accurate body measurements using vision**, designed for fashion and fitness use cases.
@@ -69,7 +61,7 @@ Tech
 
 ---
 
-## 🧰 Technical Stack
+## Technical Stack
 
 ### AI and ML  
 ![LLMs](https://img.shields.io/badge/LLMs-Intent%20Driven-blue)
@@ -89,16 +81,14 @@ Tech
 ### DevOps and Cloud  
 ![Docker](https://img.shields.io/badge/Docker-Containers-blue)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-black)
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
 
 ### Hardware and IoT  
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-Edge%20AI-red)
-![ESP32](https://img.shields.io/badge/ESP32-IoT-green)
-![MQTT](https://img.shields.io/badge/MQTT-Realtime-lightgrey)
+
 
 ---
 
-## 📊 Live GitHub Metrics
+## Live GitHub Metrics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ahmedbelaid&show_icons=true&theme=vision-friendly-dark&hide_border=true" height="165" />
@@ -111,13 +101,13 @@ Tech
 
 ---
 
-## 🤝 Connect
+## Connect
 
 🌐 Website  
-https://proarts.studio  
+https://Ahmedbelaid.site  
 
 📧 Email  
-contact@proarts.studio  
+Ahmed.belaid.sc@gmail.com
 
 💼 LinkedIn  
 https://linkedin.com/in/Ahmedbelaid  
